@@ -1,7 +1,4 @@
-# My - Projects
-A portfolio showcasing my data analysis skills and experience, covering topics from data visualization to predictive modeling. It includes examples of projects I have completed, along with a discussion of the methods and techniques used. It also highlights my ability to effectively communicate data-driven insights in varying business conditions.
-
-Data Analyst Portfolio - Pramit Parikh
+Data Analyst Portfolio - Jayanth V
 About -
 My name is Jayanth V and I am a Data Analyst with a proven track record of success in data-driven decision making and problem-solving. I have extensive experience in using data to identify patterns, trends, and insights in order to make informed decisions. I am highly proficient in data visualization, data analysis, data wrangling, and statistical analysis. My portfolio showcases my data management and analysis skills, which I have acquired through a combination of formal education, professional experience, and self-teaching.
 
