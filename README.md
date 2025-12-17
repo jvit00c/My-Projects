@@ -1,2 +1,12 @@
-# My-Projects
+# My - Projects
 A portfolio showcasing my data analysis skills and experience, covering topics from data visualization to predictive modeling. It includes examples of projects I have completed, along with a discussion of the methods and techniques used. It also highlights my ability to effectively communicate data-driven insights in varying business conditions.
+
+Data Analyst Portfolio - Pramit Parikh
+About -
+My name is Jayanth V and I am a Data Analyst with a proven track record of success in data-driven decision making and problem-solving. I have extensive experience in using data to identify patterns, trends, and insights in order to make informed decisions. I am highly proficient in data visualization, data analysis, data wrangling, and statistical analysis. My portfolio showcases my data management and analysis skills, which I have acquired through a combination of formal education, professional experience, and self-teaching.
+
+What Have I Done?
+My portfolio includes a range of projects that I have completed over the years and most of them come from my post-graduate degree in Data Analytics for Business from St. Clair College in Canada. These projects range from simple data visualization tasks to complex data wrangling and machine learning tasks. For each of these projects, I have provided a brief description of the work that I have completed and the tools I used to complete them. These projects cover multiple fields such as marketing, healthcare, project management, finance and machine learning. My portfolio also includes my skills in data mining and predictive analytics. This includes the algorithms and techniques I have used to build models and gain insights from multiple data sets.
+
+Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
+
